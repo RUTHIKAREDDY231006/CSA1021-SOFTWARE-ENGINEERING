@@ -1,0 +1,6 @@
+Summary,Issue Type,Priority,Story Points
+Create User Registration Page,Story,Highest,3
+Develop API for Login,Story,Highest,5
+Design Home Page,Story,Medium,3
+Test Login Functionality,Task,Medium,2
+Deploy Application,Task,Low,2
