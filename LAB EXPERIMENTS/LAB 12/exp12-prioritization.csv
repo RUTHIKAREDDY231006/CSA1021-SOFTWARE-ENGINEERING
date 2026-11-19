@@ -1,0 +1,5 @@
+Requirement,MoSCoW,Kano,Jira Labels
+User Login and Role Assignment,Must Have,Basic,"MoSCoW-Must,Kano-Basic"
+Task Creation and Assignment,Must Have,Basic,"MoSCoW-Must,Kano-Basic"
+Task Prioritization and Deadlines,Should Have,Performance,"MoSCoW-Should,Kano-Performance"
+Progress Tracking and Reporting,Could Have,Excitement,"MoSCoW-Could,Kano-Excitement"
