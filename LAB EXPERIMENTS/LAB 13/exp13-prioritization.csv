@@ -1,0 +1,7 @@
+Requirement,MoSCoW,Kano,Jira Labels
+Course Enrollment and Registration,Must Have,Basic,"MoSCoW-Must,Kano-Basic"
+Video Lecture Streaming,Must Have,Performance,"MoSCoW-Must,Kano-Performance"
+Interactive Quizzes and Assignments,Should Have,Performance,"MoSCoW-Should,Kano-Performance"
+Progress Tracking Dashboard,Should Have,Performance,"MoSCoW-Should,Kano-Performance"
+Peer-to-Peer Discussion Forums,Could Have,Excitement,"MoSCoW-Could,Kano-Excitement"
+Certificate Generation,Could Have,Excitement,"MoSCoW-Could,Kano-Excitement"
